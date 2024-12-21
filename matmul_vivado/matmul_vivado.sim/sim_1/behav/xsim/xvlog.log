@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Workspace/2024-2/soc/final_project/matmul_vivado/matmul_vivado.srcs/sources_1/new/matmul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module matmul
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Workspace/2024-2/soc/final_project/matmul_vivado/matmul_vivado.srcs/sim_1/new/matmul_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module matmul_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Workspace/2024-2/soc/final_project/matmul_vivado/matmul_vivado.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

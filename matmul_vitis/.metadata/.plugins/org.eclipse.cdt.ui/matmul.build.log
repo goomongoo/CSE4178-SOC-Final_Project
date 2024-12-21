@@ -1,0 +1,7 @@
+23:23:29 **** Clean-only build of configuration Debug for project matmul ****
+make clean 
+rm -rf  ./src/helloworld.o ./src/platform.o  ./src/helloworld.d ./src/platform.d  matmul.elf.size  matmul.elf
+' '
+
+23:23:29 Build Finished (took 201ms)
+

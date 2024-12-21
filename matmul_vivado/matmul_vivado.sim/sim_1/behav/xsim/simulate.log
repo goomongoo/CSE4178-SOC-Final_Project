@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+C_R0L = 00140014, C_R0R = 00140014
+C_R1L = 003c003c, C_R1R = 003c003c
+C_R2L = 00640064, C_R2R = 00640064
+C_R3L = 008c008c, C_R3R = 008c008c
+Overflow = 0
+C_R0L = fc04fc04, C_R0R = fc04fc04
+C_R1L = fc04fc04, C_R1R = fc04fc04
+C_R2L = fc04fc04, C_R2R = fc04fc04
+C_R3L = fc04fc04, C_R3R = fc04fc04
+Overflow = 1
+$finish called at time : 20 ns : File "D:/Workspace/2024-2/soc/final_project/matmul_vivado/matmul_vivado.srcs/sim_1/new/matmul_tb.v" Line 66
